@@ -1,0 +1,12 @@
+C:\Users\陈\Desktop\project1\RollCall.Core\bin\Release\net8.0\RollCall.Core.deps.json
+C:\Users\陈\Desktop\project1\RollCall.Core\bin\Release\net8.0\RollCall.Core.dll
+C:\Users\陈\Desktop\project1\RollCall.Core\bin\Release\net8.0\RollCall.Core.pdb
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.csproj.AssemblyReference.cache
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.AssemblyInfoInputs.cache
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.AssemblyInfo.cs
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.csproj.CoreCompileInputs.cache
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.dll
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\refint\RollCall.Core.dll
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\RollCall.Core.pdb
+C:\Users\陈\Desktop\project1\RollCall.Core\obj\Release\net8.0\ref\RollCall.Core.dll
